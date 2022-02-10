@@ -11,7 +11,7 @@ public class About_Me extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about__me);
-        setTitle("About me");
+        setTitle("About Me");
     }
 
     public void onBackPressed() {
